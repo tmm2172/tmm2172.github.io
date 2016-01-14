@@ -1,0 +1,91 @@
+
+
+h1 {
+		color: #a6c5e8;
+		letter-spacing: 0.5px;
+}
+
+.sub-header {
+	color: #a6c5e8;
+	text-align: left;
+	text-align: center;
+
+}
+
+
+.TLDR {
+	font-size: ;
+	font-size: 18px;
+	font-family: Hind;
+	font-weight: 275;
+	color: #a6c5e8;
+}
+
+.frisbee-info-basic {
+	color: #80b9ff;
+	font-size: 18px;
+	font-family: Hind;
+	font-weight: 275;
+	text-align: center;
+}
+
+/*Gifs blurred, must hover over to reveal*/
+.gif-one,.gif-two {
+    font-family:sans-serif;
+    font-weight:bold;
+    -webkit-filter: blur(25px);
+    -webkit-transition: -webkit-filter .50s;
+}
+
+.gif-one,.gif-two:hover{
+    -webkit-filter: none;
+    -webkit-transition: -webkit-filter .50s;
+}
+
+h1 {
+	font-size: 24;
+	font-family: Hind;
+	font-weight: 950;
+	text-align: center;
+	position: top;
+}
+
+h4 {
+	font-size: 16;
+	font-family: Hind;
+	font-weight: 700;
+	text-align: left;
+	text-align: bottom;
+}
+
+
+.title-name {
+	text-align: bottom;
+}
+
+
+body {
+	background-image: http://giphy.com/gifs/ultimate-frisbee-1jYmNyL2o3R9m(path/to/animated.gif);};
+}
+
+img {
+    position: absolute;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+}
+
+html {
+	background-color: #283038;
+}
+.frisbee-info-basic, .TLDR {
+	padding-top: 50px;
+	padding-right: 100px;
+	padding-bottom: 50px;
+	padding-left: 100px;
+}
+
+.discraft-disc {
+	position:fixed;
+    top:15px;
+    left:15px;
+}
